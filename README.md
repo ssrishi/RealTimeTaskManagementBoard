@@ -1,7 +1,5 @@
 # RealTimeTaskManagementBoard
 
-# Real-Time Task Board
-
 A modern, collaborative task board application built with React and Firebase. It allows users to manage tasks in real-time with drag-and-drop functionality, intuitive editing options, and seamless synchronization across clients.
 
 ## Features
@@ -88,7 +86,7 @@ npm run dev
 
 This project is deployed on Netlify:
 
-* **Live Demo:** [https://your-task-board.netlify.app](https://your-task-board.netlify.app)
+* **Live Demo:** [https://your-task-board.netlify.app](https://taskmanagementboardinreact.netlify.app/)
 
 To deploy it yourself:
 
