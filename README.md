@@ -86,7 +86,7 @@ npm run dev
 
 This project is deployed on Netlify:
 
-* **Live Demo:** [https://your-task-board.netlify.app](https://taskmanagementboardinreact.netlify.app/)
+* **Live Demo:** [RealTimeTaskManagementBoard](https://taskmanagementboardinreact.netlify.app/)
 
 To deploy it yourself:
 
